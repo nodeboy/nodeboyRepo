@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/98/trunk/software/components/net/lwip-1.4.0/src/core/ipv6
+END
+inet6.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/98/trunk/software/components/net/lwip-1.4.0/src/core/ipv6/inet6.c
+END
+ip6_addr.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/98/trunk/software/components/net/lwip-1.4.0/src/core/ipv6/ip6_addr.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/98/trunk/software/components/net/lwip-1.4.0/src/core/ipv6/README
+END
+icmp6.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/98/trunk/software/components/net/lwip-1.4.0/src/core/ipv6/icmp6.c
+END
+ip6.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/98/trunk/software/components/net/lwip-1.4.0/src/core/ipv6/ip6.c
+END

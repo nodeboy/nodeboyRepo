@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/nfs
+END
+nfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/nfs/nfs.h
+END
+nfs.x
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/nfs/nfs.x
+END
+mount_xdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/nfs/mount_xdr.c
+END
+dfs_nfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/nfs/dfs_nfs.c
+END
+mount_clnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/nfs/mount_clnt.c
+END
+nfs_xdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/nfs/nfs_xdr.c
+END
+nfs_clnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/nfs/nfs_clnt.c
+END
+dfs_nfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/nfs/dfs_nfs.h
+END
+mount.x
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/nfs/mount.x
+END
+mount.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/nfs/mount.h
+END

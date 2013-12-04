@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif
+END
+ethernetif.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ethernetif.c
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/FILES
+END
+etharp.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/etharp.c
+END
+skeleton.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/skeleton.c
+END
+slipif.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/slipif.c
+END
+loopif.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/loopif.c
+END
+skeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/skeleton.h
+END

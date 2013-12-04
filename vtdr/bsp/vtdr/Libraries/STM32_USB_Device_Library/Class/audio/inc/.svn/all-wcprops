@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/audio/inc
+END
+usbd_audio_out_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/audio/inc/usbd_audio_out_if.h
+END
+usbd_audio_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/audio/inc/usbd_audio_core.h
+END

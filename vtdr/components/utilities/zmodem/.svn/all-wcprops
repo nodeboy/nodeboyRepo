@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/98/trunk/software/components/utilities/zmodem
+END
+zdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/utilities/zmodem/zdef.h
+END
+zcore.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/utilities/zmodem/zcore.c
+END
+zstart.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/utilities/zmodem/zstart.c
+END
+zdevice.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/utilities/zmodem/zdevice.c
+END
+rz.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/utilities/zmodem/rz.c
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/utilities/zmodem/crc.h
+END
+sz.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/utilities/zmodem/sz.c
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs
+END
+uffs_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_core.h
+END
+uffs_fd.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_fd.h
+END
+uffs_ecc.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_ecc.h
+END
+uffs_flash.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_flash.h
+END
+uffs_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_tree.h
+END
+uffs_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_device.h
+END
+uffs_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_utils.h
+END
+uffs_badblock.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_badblock.h
+END
+uffs_fileem.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_fileem.h
+END
+uffs_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_types.h
+END
+uffs_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_config.h
+END
+uffs_blockinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_blockinfo.h
+END
+uffs_fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_fs.h
+END
+uffs_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_pool.h
+END
+uffs_buf.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_buf.h
+END
+uffs_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_mem.h
+END
+uffs_public.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_public.h
+END
+uffs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs.h
+END
+uffs_find.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_find.h
+END
+uffs_os.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_os.h
+END
+uffs_mtb.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_mtb.h
+END
+uffs_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/inc/uffs/uffs_version.h
+END

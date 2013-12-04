@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/dfu/inc
+END
+usbd_flash_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/dfu/inc/usbd_flash_if.h
+END
+usbd_otp_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/dfu/inc/usbd_otp_if.h
+END
+usbd_dfu_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/dfu/inc/usbd_dfu_core.h
+END
+usbd_mem_if_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/dfu/inc/usbd_mem_if_template.h
+END
+usbd_dfu_mal.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/dfu/inc/usbd_dfu_mal.h
+END

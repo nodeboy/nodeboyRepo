@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/dfu/src
+END
+usbd_dfu_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/dfu/src/usbd_dfu_core.c
+END
+usbd_dfu_mal.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/dfu/src/usbd_dfu_mal.c
+END
+usbd_mem_if_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/dfu/src/usbd_mem_if_template.c
+END
+usbd_flash_if.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/dfu/src/usbd_flash_if.c
+END
+usbd_otp_if.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/dfu/src/usbd_otp_if.c
+END

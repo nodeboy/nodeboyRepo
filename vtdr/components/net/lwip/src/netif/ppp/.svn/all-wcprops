@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp
+END
+chpms.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/chpms.c
+END
+pppdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/pppdebug.h
+END
+chap.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/chap.c
+END
+vjbsdhdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/vjbsdhdr.h
+END
+lcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/lcp.c
+END
+vj.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/vj.c
+END
+chpms.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/chpms.h
+END
+pap.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/pap.c
+END
+magic.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/magic.c
+END
+chap.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/chap.h
+END
+ppp_oe.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/ppp_oe.c
+END
+lcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/lcp.h
+END
+vj.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/vj.h
+END
+fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/fsm.c
+END
+magic.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/magic.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/md5.c
+END
+pap.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/pap.h
+END
+fsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/fsm.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/md5.h
+END
+ipcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/ipcp.c
+END
+ppp.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/ppp.c
+END
+ipcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/ipcp.h
+END
+randm.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/randm.c
+END
+auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/auth.c
+END
+ppp.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/ppp.h
+END
+randm.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/randm.h
+END
+auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/software/components/net/lwip/src/netif/ppp/auth.h
+END

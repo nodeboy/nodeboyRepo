@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/204/trunk/software/bsp/vtdr/Libraries/STM32_USB_HOST_Library/Core/src
+END
+usbh_stdreq.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_HOST_Library/Core/src/usbh_stdreq.c
+END
+usbh_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/204/trunk/software/bsp/vtdr/Libraries/STM32_USB_HOST_Library/Core/src/usbh_core.c
+END
+usbh_hcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/203/trunk/software/bsp/vtdr/Libraries/STM32_USB_HOST_Library/Core/src/usbh_hcs.c
+END
+usbh_ioreq.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_HOST_Library/Core/src/usbh_ioreq.c
+END

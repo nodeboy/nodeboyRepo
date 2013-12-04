@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/32/trunk/software/libcpu/arm/AT91SAM7S
+END
+serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/32/trunk/software/libcpu/arm/AT91SAM7S/serial.h
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32/trunk/software/libcpu/arm/AT91SAM7S/stack.c
+END
+trap.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/32/trunk/software/libcpu/arm/AT91SAM7S/trap.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/32/trunk/software/libcpu/arm/AT91SAM7S/cpu.c
+END
+start_gcc.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32/trunk/software/libcpu/arm/AT91SAM7S/start_gcc.S
+END
+start_rvds.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/32/trunk/software/libcpu/arm/AT91SAM7S/start_rvds.S
+END
+interrupt.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32/trunk/software/libcpu/arm/AT91SAM7S/interrupt.c
+END
+AT91SAM7S.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32/trunk/software/libcpu/arm/AT91SAM7S/AT91SAM7S.h
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/32/trunk/software/libcpu/arm/AT91SAM7S/serial.c
+END
+context_gcc.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32/trunk/software/libcpu/arm/AT91SAM7S/context_gcc.S
+END
+context_rvds.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/32/trunk/software/libcpu/arm/AT91SAM7S/context_rvds.S
+END

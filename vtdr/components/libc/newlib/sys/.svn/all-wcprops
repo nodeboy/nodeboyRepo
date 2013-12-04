@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/98/trunk/software/components/libc/newlib/sys
+END
+statfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/libc/newlib/sys/statfs.h
+END
+dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/libc/newlib/sys/dirent.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/libc/newlib/sys/fcntl.h
+END

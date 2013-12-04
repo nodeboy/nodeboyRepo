@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/hid/inc
+END
+usbd_hid_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/hid/inc/usbd_hid_core.h
+END

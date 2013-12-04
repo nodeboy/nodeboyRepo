@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/98/trunk/software/components/net/lwip/doc
+END
+savannah.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/net/lwip/doc/savannah.txt
+END
+contrib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/net/lwip/doc/contrib.txt
+END
+rawapi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/net/lwip/doc/rawapi.txt
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/98/trunk/software/components/net/lwip/doc/FILES
+END
+snmp_agent.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/98/trunk/software/components/net/lwip/doc/snmp_agent.txt
+END
+sys_arch.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/net/lwip/doc/sys_arch.txt
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/204/trunk/software/components/dfs/filesystems/elmfat/option
+END
+cc932.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/elmfat/option/cc932.c
+END
+cc950.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/elmfat/option/cc950.c
+END
+cc936.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/204/trunk/software/components/dfs/filesystems/elmfat/option/cc936.c
+END
+syscall.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/elmfat/option/syscall.c
+END
+cc949.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/elmfat/option/cc949.c
+END
+ccsbcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/elmfat/option/ccsbcs.c
+END

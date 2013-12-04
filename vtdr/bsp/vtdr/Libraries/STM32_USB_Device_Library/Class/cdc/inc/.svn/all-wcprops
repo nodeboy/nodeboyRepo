@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/cdc/inc
+END
+usbd_cdc_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/cdc/inc/usbd_cdc_core.h
+END
+usbd_cdc_if_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/cdc/inc/usbd_cdc_if_template.h
+END

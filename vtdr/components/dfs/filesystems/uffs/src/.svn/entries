@@ -1,0 +1,77 @@
+10
+
+dir
+212
+https://vtdr.googlecode.com/svn/trunk/software/components/dfs/filesystems/uffs/src
+https://vtdr.googlecode.com/svn
+
+
+
+2012-07-02T14:31:12.252840Z
+98
+me.xinxin@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+faeaef05-255a-1c85-8150-c1329a0c1cf2
+
+emu
+dir
+
+inc
+dir
+
+example
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2013-07-25T08:23:44.000000Z
+a76d29100a47fbe5509eb6fa0292a9ef
+2012-07-02T14:31:12.252840Z
+98
+me.xinxin@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+95
+
+utils
+dir
+
+uffs
+dir
+

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/101/trunk/software/examples/kernel
+END
+heap_realloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/32/trunk/software/examples/kernel/heap_realloc.c
+END
+thread_static.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32/trunk/software/examples/kernel/thread_static.c
+END
+mbox_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/32/trunk/software/examples/kernel/mbox_simple.c
+END
+timer_control.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/101/trunk/software/examples/kernel/timer_control.c
+END
+timer_dynamic.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32/trunk/software/examples/kernel/timer_dynamic.c
+END
+thread_delay.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/32/trunk/software/examples/kernel/thread_delay.c
+END
+thread_static_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/32/trunk/software/examples/kernel/thread_static_simple.c
+END
+thread_delete.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/101/trunk/software/examples/kernel/thread_delete.c
+END
+semaphore_producer_consumer.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/32/trunk/software/examples/kernel/semaphore_producer_consumer.c
+END
+memp_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/32/trunk/software/examples/kernel/memp_simple.c
+END
+thread_suspend.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/101/trunk/software/examples/kernel/thread_suspend.c
+END
+mutex_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/32/trunk/software/examples/kernel/mutex_simple.c
+END
+thread_same_priority.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/32/trunk/software/examples/kernel/thread_same_priority.c
+END
+messageq_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/32/trunk/software/examples/kernel/messageq_simple.c
+END
+thread_detach.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/101/trunk/software/examples/kernel/thread_detach.c
+END
+tc_comm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/101/trunk/software/examples/kernel/tc_comm.c
+END
+thread_dynamic_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/32/trunk/software/examples/kernel/thread_dynamic_simple.c
+END
+semaphore_priority.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/32/trunk/software/examples/kernel/semaphore_priority.c
+END
+tc_comm.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/32/trunk/software/examples/kernel/tc_comm.h
+END
+timer_timeout.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/32/trunk/software/examples/kernel/timer_timeout.c
+END
+semaphore_dynamic.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/32/trunk/software/examples/kernel/semaphore_dynamic.c
+END
+thread_resume.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/101/trunk/software/examples/kernel/thread_resume.c
+END
+timer_static.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/32/trunk/software/examples/kernel/timer_static.c
+END
+semaphore_static.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32/trunk/software/examples/kernel/semaphore_static.c
+END
+event_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/32/trunk/software/examples/kernel/event_simple.c
+END
+thread_yield.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/101/trunk/software/examples/kernel/thread_yield.c
+END
+timer_stop_self.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/32/trunk/software/examples/kernel/timer_stop_self.c
+END
+mbox_send_wait.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/101/trunk/software/examples/kernel/mbox_send_wait.c
+END
+heap_malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/32/trunk/software/examples/kernel/heap_malloc.c
+END
+semaphore_buffer_worker.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/101/trunk/software/examples/kernel/semaphore_buffer_worker.c
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/trunk/software/examples/kernel/SConscript
+END
+tc_sample.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/trunk/software/examples/kernel/tc_sample.c
+END
+thread_priority.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/101/trunk/software/examples/kernel/thread_priority.c
+END
+thread_dynamic.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/32/trunk/software/examples/kernel/thread_dynamic.c
+END
+cpuusage.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/trunk/software/examples/kernel/cpuusage.c
+END

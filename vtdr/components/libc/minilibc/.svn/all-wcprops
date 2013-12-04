@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc
+END
+ctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/ctype.c
+END
+rand.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/rand.c
+END
+stdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/stdlib.h
+END
+stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/stdio.h
+END
+math.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/math.c
+END
+ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/ctype.h
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/time.c
+END
+math.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/math.h
+END
+time.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/time.h
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/string.c
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/SConscript
+END
+qsort.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/qsort.c
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/stdint.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/string.h
+END
+stddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/stddef.h
+END
+stdlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/libc/minilibc/stdlib.c
+END

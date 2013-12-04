@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/trunk/software/libcpu/m16c/m16c62p
+END
+cpuport.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/101/trunk/software/libcpu/m16c/m16c62p/cpuport.c
+END
+context_iar.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/101/trunk/software/libcpu/m16c/m16c62p/context_iar.asm
+END
+context_iar.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/101/trunk/software/libcpu/m16c/m16c62p/context_iar.S
+END

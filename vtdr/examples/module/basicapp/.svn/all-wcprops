@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/101/trunk/software/examples/module/basicapp
+END
+basicapp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/101/trunk/software/examples/module/basicapp/basicapp.c
+END
+Sconscript
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/101/trunk/software/examples/module/basicapp/Sconscript
+END

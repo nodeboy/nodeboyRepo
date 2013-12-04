@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Device/ST/STM32F2xx/Source/Templates/iar
+END
+startup_stm32f2xx.s
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Device/ST/STM32F2xx/Source/Templates/iar/startup_stm32f2xx.s
+END

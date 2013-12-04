@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/msc/inc
+END
+usbd_msc_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/msc/inc/usbd_msc_mem.h
+END
+usbd_msc_scsi.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/msc/inc/usbd_msc_scsi.h
+END
+usbd_msc_bot.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/msc/inc/usbd_msc_bot.h
+END
+usbd_msc_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/msc/inc/usbd_msc_core.h
+END
+usbd_msc_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_Device_Library/Class/msc/inc/usbd_msc_data.h
+END

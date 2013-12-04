@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/212/trunk/software
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/32/trunk/software/Readme.txt
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/101/trunk/software/AUTHORS
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/214/trunk/software/COPYING
+END

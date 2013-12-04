@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/flash
+END
+k9f2g08.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/flash/k9f2g08.c
+END
+nand_ids.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/flash/nand_ids.c
+END
+K9F2G08.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/flash/K9F2G08.h
+END
+uffs_nand_samsung.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/flash/uffs_nand_samsung.c
+END
+nand.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/flash/nand.h
+END

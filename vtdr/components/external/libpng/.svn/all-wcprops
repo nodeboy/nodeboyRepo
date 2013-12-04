@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/98/trunk/software/components/external/libpng
+END
+pngwutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngwutil.c
+END
+pngread.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngread.c
+END
+pngmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngmem.c
+END
+pngget.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngget.c
+END
+png.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/libpng/png.c
+END
+pnggccrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pnggccrd.c
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/libpng/png.h
+END
+pngrtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngrtran.c
+END
+pngtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngtrans.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/libpng/Makefile
+END
+pngerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngerror.c
+END
+pngrio.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngrio.c
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngconf.h
+END
+pngwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngwrite.c
+END
+pngpread.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngpread.c
+END
+pngwtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngwtran.c
+END
+pngset.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngset.c
+END
+pngwio.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngwio.c
+END
+pngvcrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngvcrd.c
+END
+pngrutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/libpng/pngrutil.c
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/libpng/SConscript
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/95/trunk/software/bsp/stm32f10x/Libraries/CMSIS
+END
+License.doc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/95/trunk/software/bsp/stm32f10x/Libraries/CMSIS/License.doc
+END
+CMSIS debug support.htm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/95/trunk/software/bsp/stm32f10x/Libraries/CMSIS/CMSIS%20debug%20support.htm
+END
+CMSIS_changes.htm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/95/trunk/software/bsp/stm32f10x/Libraries/CMSIS/CMSIS_changes.htm
+END

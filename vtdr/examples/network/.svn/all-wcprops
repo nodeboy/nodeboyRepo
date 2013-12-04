@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/101/trunk/software/examples/network
+END
+tcpclient.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32/trunk/software/examples/network/tcpclient.c
+END
+udpclient.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32/trunk/software/examples/network/udpclient.c
+END
+tcpsendpacket.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/101/trunk/software/examples/network/tcpsendpacket.c
+END
+tcpserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32/trunk/software/examples/network/tcpserver.c
+END
+udpserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32/trunk/software/examples/network/udpserver.c
+END

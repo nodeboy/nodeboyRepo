@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/98/trunk/software/components/net/lwip/apps
+END
+tcpecho.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/net/lwip/apps/tcpecho.c
+END
+chargen.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/net/lwip/apps/chargen.c
+END
+udpecho.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/net/lwip/apps/udpecho.c
+END
+tftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98/trunk/software/components/net/lwip/apps/tftp.c
+END
+ping.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98/trunk/software/components/net/lwip/apps/ping.c
+END
+ftpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98/trunk/software/components/net/lwip/apps/ftpd.c
+END
+netio.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/net/lwip/apps/netio.c
+END
+sntp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98/trunk/software/components/net/lwip/apps/sntp.c
+END

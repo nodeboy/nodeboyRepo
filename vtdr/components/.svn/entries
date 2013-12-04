@@ -1,0 +1,89 @@
+10
+
+dir
+212
+https://vtdr.googlecode.com/svn/trunk/software/components
+https://vtdr.googlecode.com/svn
+
+
+
+2013-07-05T01:05:44.688884Z
+204
+leiyueqin@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+faeaef05-255a-1c85-8150-c1329a0c1cf2
+
+finsh
+dir
+
+SConscript
+file
+
+
+
+
+2013-07-25T08:23:39.000000Z
+99c46031496362259ad8db1868313485
+2012-07-02T14:31:12.252840Z
+98
+me.xinxin@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+336
+
+libc
+dir
+
+rtgui
+dir
+
+pthreads
+dir
+
+utilities
+dir
+
+dfs
+dir
+
+external
+dir
+
+net
+dir
+
+libdl
+dir
+

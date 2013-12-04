@@ -1,0 +1,28 @@
+10
+
+dir
+0
+https://vtdr.googlecode.com/svn/trunk/software/.settings
+https://vtdr.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+faeaef05-255a-1c85-8150-c1329a0c1cf2
+

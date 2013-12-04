@@ -1,0 +1,80 @@
+10
+
+dir
+212
+https://vtdr.googlecode.com/svn/trunk/software/libcpu
+https://vtdr.googlecode.com/svn
+
+
+
+2012-07-31T15:25:55.662184Z
+118
+me.xinxin@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+faeaef05-255a-1c85-8150-c1329a0c1cf2
+
+avr32
+dir
+
+ia32
+dir
+
+arm
+dir
+
+v850
+dir
+
+m16c
+dir
+
+SConscript
+file
+
+
+
+
+2013-07-25T08:23:52.000000Z
+c45260ac93bd8c16da5a7850676ddca4
+2012-07-02T14:59:47.170403Z
+101
+me.xinxin@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+773
+
+mips
+dir
+

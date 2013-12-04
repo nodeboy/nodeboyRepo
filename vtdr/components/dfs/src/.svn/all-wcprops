@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/98/trunk/software/components/dfs/src
+END
+dfs_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/98/trunk/software/components/dfs/src/dfs_file.c
+END
+dfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/98/trunk/software/components/dfs/src/dfs.c
+END
+dfs_posix.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/98/trunk/software/components/dfs/src/dfs_posix.c
+END
+dfs_fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/98/trunk/software/components/dfs/src/dfs_fs.c
+END

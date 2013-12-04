@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/32/trunk/software/libcpu/ia32
+END
+trap.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/32/trunk/software/libcpu/ia32/trap.c
+END
+hdisr.S
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/32/trunk/software/libcpu/ia32/hdisr.S
+END
+interrupt.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/32/trunk/software/libcpu/ia32/interrupt.c
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/32/trunk/software/libcpu/ia32/start.S
+END
+showmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/32/trunk/software/libcpu/ia32/showmem.c
+END
+backtrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/32/trunk/software/libcpu/ia32/backtrace.c
+END
+__umodsi3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/32/trunk/software/libcpu/ia32/__umodsi3.c
+END
+trapisr.S
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/32/trunk/software/libcpu/ia32/trapisr.S
+END
+__udivsi3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/32/trunk/software/libcpu/ia32/__udivsi3.c
+END
+context.S
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/32/trunk/software/libcpu/ia32/context.S
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/32/trunk/software/libcpu/ia32/stack.c
+END

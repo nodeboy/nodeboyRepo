@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_OTG_Driver/inc
+END
+usb_hcd_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_OTG_Driver/inc/usb_hcd_int.h
+END
+usb_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_OTG_Driver/inc/usb_core.h
+END
+usb_otg.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_OTG_Driver/inc/usb_otg.h
+END
+usb_dcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_OTG_Driver/inc/usb_dcd.h
+END
+usb_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_OTG_Driver/inc/usb_defines.h
+END
+usb_hcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_OTG_Driver/inc/usb_hcd.h
+END
+usb_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_OTG_Driver/inc/usb_regs.h
+END
+usb_conf_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_OTG_Driver/inc/usb_conf_template.h
+END
+usb_dcd_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_OTG_Driver/inc/usb_dcd_int.h
+END
+usb_bsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_OTG_Driver/inc/usb_bsp.h
+END

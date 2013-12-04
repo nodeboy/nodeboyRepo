@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_HOST_Library/Class/HID/inc
+END
+usbh_hid_keybd.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_HOST_Library/Class/HID/inc/usbh_hid_keybd.h
+END
+usbh_hid_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_HOST_Library/Class/HID/inc/usbh_hid_core.h
+END
+usbh_hid_mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/STM32_USB_HOST_Library/Class/HID/inc/usbh_hid_mouse.h
+END

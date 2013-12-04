@@ -1,0 +1,1067 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/98/trunk/software/components/external/jpeg
+END
+structure.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/structure.txt
+END
+makerdep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makerdep.vc6
+END
+ansi2knr.1
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/ansi2knr.1
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jfdctfst.c
+END
+jcmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jcmaster.c
+END
+libjpeg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/libjpeg.txt
+END
+makedvcp.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makedvcp.vc9
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdmaster.c
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jidctfst.c
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdmerge.c
+END
+makefile.unix
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makefile.unix
+END
+rdppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/rdppm.c
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/configure.ac
+END
+jconfig.sas
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jconfig.sas
+END
+testimg.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/testimg.ppm
+END
+jdosaobj.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdosaobj.txt
+END
+jconfig.wat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jconfig.wat
+END
+jmemname.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jmemname.c
+END
+maketvcp.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/maketvcp.vc9
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdatasrc.c
+END
+wrrle.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/wrrle.c
+END
+rdgif.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/rdgif.c
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdcolor.c
+END
+jcapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jcapistd.c
+END
+jdapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdapistd.c
+END
+makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makefile.vc
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jversion.h
+END
+jdtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdtrans.c
+END
+rdjpgcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/rdjpgcom.c
+END
+testprog.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/testprog.jpg
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/SConscript
+END
+wrtarga.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/wrtarga.c
+END
+makecvcp.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makecvcp.vc9
+END
+testimg.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/testimg.bmp
+END
+makewmak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makewmak.vc6
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jutils.c
+END
+makvms.opt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makvms.opt
+END
+makefile.bcc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makefile.bcc
+END
+jaricom.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jaricom.c
+END
+ansi2knr.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/ansi2knr.c
+END
+makewdsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makewdsp.vc6
+END
+wrbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/wrbmp.c
+END
+jccolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jccolor.c
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/install-sh
+END
+jdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdatadst.c
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jerror.c
+END
+jctrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jctrans.c
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdhuff.c
+END
+libjpeg.map
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/libjpeg.map
+END
+filelist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/filelist.txt
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jerror.h
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/config.guess
+END
+jconfig.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jconfig.txt
+END
+makejvcp.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makejvcp.vc9
+END
+jcinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jcinit.c
+END
+makefile.sas
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makefile.sas
+END
+makejdsw.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makejdsw.vc6
+END
+jconfig.st
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jconfig.st
+END
+jdarith.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdarith.c
+END
+makefile.wat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makefile.wat
+END
+rdswitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/rdswitch.c
+END
+makervcp.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makervcp.vc9
+END
+makefile.mms
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makefile.mms
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/missing
+END
+jconfig.dj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jconfig.dj
+END
+jmemdosa.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jmemdosa.asm
+END
+makefile.manx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makefile.manx
+END
+jfdctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jfdctflt.c
+END
+jconfig.manx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jconfig.manx
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/Makefile.in
+END
+jconfig.vms
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jconfig.vms
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jidctflt.c
+END
+install.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/install.txt
+END
+djpeg.1
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/djpeg.1
+END
+makeadsw.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makeadsw.vc6
+END
+makewdep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makewdep.vc6
+END
+jcprepct.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jcprepct.c
+END
+coderules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/coderules.txt
+END
+ckconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/ckconfig.c
+END
+jcarith.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jcarith.c
+END
+makedmak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makedmak.vc6
+END
+jcmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jcmainct.c
+END
+jpegtran.1
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jpegtran.1
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdmainct.c
+END
+jcapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jcapimin.c
+END
+jdapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdapimin.c
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/example.c
+END
+jconfig.mac
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jconfig.mac
+END
+jcdctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jcdctmgr.c
+END
+testorig.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/testorig.jpg
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jddctmgr.c
+END
+jmemdos.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jmemdos.c
+END
+readme.dos
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/readme.dos
+END
+makeddsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makeddsp.vc6
+END
+jchuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jchuff.c
+END
+cderror.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/cderror.h
+END
+maketmak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/maketmak.vc6
+END
+rdrle.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/rdrle.c
+END
+testimg.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/testimg.jpg
+END
+jmemnobs.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jmemnobs.c
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/config.sub
+END
+jconfig.mc6
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jconfig.mc6
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jcomapi.c
+END
+maketdsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/maketdsp.vc6
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jconfig.h
+END
+makecmak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makecmak.vc6
+END
+makdjpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makdjpeg.st
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdct.h
+END
+djpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/djpeg.c
+END
+jconfig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jconfig.cfg
+END
+makljpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makljpeg.st
+END
+makefile.vms
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makefile.vms
+END
+makecdsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makecdsp.vc6
+END
+rdbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/rdbmp.c
+END
+wrppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/wrppm.c
+END
+jconfig.vc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jconfig.vc
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jfdctint.c
+END
+cjpeg.1
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/cjpeg.1
+END
+maktjpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/maktjpeg.st
+END
+wrjpgcom.1
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/wrjpgcom.1
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jidctint.c
+END
+jmemmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jmemmac.c
+END
+jpegtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jpegtran.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/README
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/ltmain.sh
+END
+jcparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jcparam.c
+END
+wrgif.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/wrgif.c
+END
+jccoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jccoefct.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdcoefct.c
+END
+makejsln.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makejsln.vc9
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jquant1.c
+END
+makefile.ansi
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makefile.ansi
+END
+makcjpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makcjpeg.st
+END
+makeproj.mac
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makeproj.mac
+END
+makeddep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makeddep.vc6
+END
+testimgp.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/testimgp.jpg
+END
+cdjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/cdjpeg.c
+END
+makewvcp.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makewvcp.vc9
+END
+makejmak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makejmak.vc6
+END
+wizard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/wizard.txt
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jmemmgr.c
+END
+usage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/usage.txt
+END
+cdjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/cdjpeg.h
+END
+jmemansi.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jmemansi.c
+END
+makermak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makermak.vc6
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jpegint.h
+END
+maketdep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/maketdep.vc6
+END
+makejdsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makejdsp.vc6
+END
+makeasln.vc9
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makeasln.vc9
+END
+transupp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/transupp.c
+END
+jdinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdinput.c
+END
+makefile.mc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makefile.mc6
+END
+transupp.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/transupp.h
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jpeglib.h
+END
+makerdsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makerdsp.vc6
+END
+rdtarga.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/rdtarga.c
+END
+makecdep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makecdep.vc6
+END
+cjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/cjpeg.c
+END
+wrjpgcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/wrjpgcom.c
+END
+makefile.dj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makefile.dj
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jmemsys.h
+END
+jcmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jcmarker.c
+END
+jcsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jcsample.c
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdmarker.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdsample.c
+END
+rdcolmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/rdcolmap.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jmorecfg.h
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jinclude.h
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/depcomp
+END
+rdjpgcom.1
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/rdjpgcom.1
+END
+jconfig.bcc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jconfig.bcc
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jquant2.c
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/jdpostct.c
+END
+makejdep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/98/trunk/software/components/external/jpeg/makejdep.vc6
+END

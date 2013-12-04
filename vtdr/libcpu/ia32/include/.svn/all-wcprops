@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/32/trunk/software/libcpu/ia32/include
+END
+grub.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/32/trunk/software/libcpu/ia32/include/grub.h
+END
+bsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/32/trunk/software/libcpu/ia32/include/bsp.h
+END
+i386.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/32/trunk/software/libcpu/ia32/include/i386.h
+END

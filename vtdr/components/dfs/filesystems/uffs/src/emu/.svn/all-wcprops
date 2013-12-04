@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/emu
+END
+cmdline.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/emu/cmdline.h
+END
+uffs_fileem_ecc_hw_auto.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/emu/uffs_fileem_ecc_hw_auto.c
+END
+uffs_fileem.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/emu/uffs_fileem.c
+END
+test_cmds.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/emu/test_cmds.c
+END
+helper_cmds.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/emu/helper_cmds.c
+END
+uffs_fileem_share.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/emu/uffs_fileem_share.c
+END
+uffs_os_posix.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/emu/uffs_os_posix.c
+END
+uffs_fileem.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/emu/uffs_fileem.h
+END
+uffs_fileem_ecc_soft.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/emu/uffs_fileem_ecc_soft.c
+END
+cmdline.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/emu/cmdline.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/emu/CMakeLists.txt
+END
+uffs_fileem_ecc_hw.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/emu/uffs_fileem_ecc_hw.c
+END
+uffs_fileem_wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/emu/uffs_fileem_wrap.c
+END

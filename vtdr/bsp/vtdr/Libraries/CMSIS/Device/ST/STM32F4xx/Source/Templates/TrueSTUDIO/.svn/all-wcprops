@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Device/ST/STM32F4xx/Source/Templates/TrueSTUDIO
+END
+startup_stm32f4xx.s
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Device/ST/STM32F4xx/Source/Templates/TrueSTUDIO/startup_stm32f4xx.s
+END

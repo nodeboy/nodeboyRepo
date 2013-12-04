@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/101/trunk/software/examples/libc
+END
+sem.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/trunk/software/examples/libc/sem.c
+END
+rand.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/101/trunk/software/examples/libc/rand.c
+END
+dirent.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/101/trunk/software/examples/libc/dirent.c
+END
+env.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/trunk/software/examples/libc/env.c
+END
+ex1.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/trunk/software/examples/libc/ex1.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/101/trunk/software/examples/libc/time.c
+END
+ex2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/trunk/software/examples/libc/ex2.c
+END
+ex3.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/trunk/software/examples/libc/ex3.c
+END
+ex4.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/trunk/software/examples/libc/ex4.c
+END
+ex5.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/trunk/software/examples/libc/ex5.c
+END
+ex6.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/trunk/software/examples/libc/ex6.c
+END
+printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/101/trunk/software/examples/libc/printf.c
+END
+ex7.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/trunk/software/examples/libc/ex7.c
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/101/trunk/software/examples/libc/SConscript
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/101/trunk/software/examples/libc/memory.c
+END
+mq.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/101/trunk/software/examples/libc/mq.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/101/trunk/software/examples/libc/file.c
+END

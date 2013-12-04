@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 146
+build
+Debug
+Backup of project.ewd
+Backup of project.ewp
+project.dep
+rtthread.bin
+rtthread-stm32.axf
+rtthread-stm32.map
+.sconsign.dblite
+lcd_m51.c
+
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/98/trunk/software/components/libdl
+END
+dlopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/98/trunk/software/components/libdl/dlopen.c
+END
+dlclose.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/98/trunk/software/components/libdl/dlclose.c
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/98/trunk/software/components/libdl/SConscript
+END
+dlsym.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/98/trunk/software/components/libdl/dlsym.c
+END
+dlerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/98/trunk/software/components/libdl/dlerror.c
+END
+dlfcn.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/98/trunk/software/components/libdl/dlfcn.h
+END

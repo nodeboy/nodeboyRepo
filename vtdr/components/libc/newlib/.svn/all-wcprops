@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/98/trunk/software/components/libc/newlib
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/libc/newlib/SConscript
+END
+math.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/98/trunk/software/components/libc/newlib/math.c
+END
+libc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/98/trunk/software/components/libc/newlib/libc.c
+END
+syscalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/libc/newlib/syscalls.c
+END
+libc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/98/trunk/software/components/libc/newlib/libc.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/212/trunk/software/app
+END
+flashfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/214/trunk/software/app/flashfile.c
+END
+360hour_pos_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/168/trunk/software/app/360hour_pos_log.h
+END
+48hour_speed_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/167/trunk/software/app/48hour_speed_log.h
+END
+flash_dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/190/trunk/software/app/flash_dev.h
+END
+flashfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/167/trunk/software/app/flashfile.h
+END
+current_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/159/trunk/software/app/current_state.h
+END

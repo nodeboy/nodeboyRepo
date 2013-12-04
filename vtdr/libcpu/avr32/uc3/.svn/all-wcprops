@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/101/trunk/software/libcpu/avr32/uc3
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/101/trunk/software/libcpu/avr32/uc3/cpu.c
+END
+exception_gcc.S
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/101/trunk/software/libcpu/avr32/uc3/exception_gcc.S
+END
+interrupt.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/101/trunk/software/libcpu/avr32/uc3/interrupt.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/101/trunk/software/libcpu/avr32/uc3/serial.c
+END
+context_gcc.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/101/trunk/software/libcpu/avr32/uc3/context_gcc.S
+END
+serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/101/trunk/software/libcpu/avr32/uc3/serial.h
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/101/trunk/software/libcpu/avr32/uc3/stack.c
+END

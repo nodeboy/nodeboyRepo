@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Device/ST/STM32F10x/Source/Templates/gcc_ride7
+END
+startup_stm32f10x_hd.s
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Device/ST/STM32F10x/Source/Templates/gcc_ride7/startup_stm32f10x_hd.s
+END
+startup_stm32f10x_hd_vl.s
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Device/ST/STM32F10x/Source/Templates/gcc_ride7/startup_stm32f10x_hd_vl.s
+END
+startup_stm32f10x_cl.s
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Device/ST/STM32F10x/Source/Templates/gcc_ride7/startup_stm32f10x_cl.s
+END
+startup_stm32f10x_ld.s
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Device/ST/STM32F10x/Source/Templates/gcc_ride7/startup_stm32f10x_ld.s
+END
+startup_stm32f10x_ld_vl.s
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Device/ST/STM32F10x/Source/Templates/gcc_ride7/startup_stm32f10x_ld_vl.s
+END
+startup_stm32f10x_md.s
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Device/ST/STM32F10x/Source/Templates/gcc_ride7/startup_stm32f10x_md.s
+END
+startup_stm32f10x_md_vl.s
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Device/ST/STM32F10x/Source/Templates/gcc_ride7/startup_stm32f10x_md_vl.s
+END
+startup_stm32f10x_xl.s
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Device/ST/STM32F10x/Source/Templates/gcc_ride7/startup_stm32f10x_xl.s
+END

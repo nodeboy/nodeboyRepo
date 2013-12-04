@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/101/trunk/software/examples/module
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/trunk/software/examples/module/SConstruct
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/101/trunk/software/examples/module/README
+END
+rtconfig_lm3s.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/101/trunk/software/examples/module/rtconfig_lm3s.py
+END
+rtconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/trunk/software/examples/module/rtconfig.py
+END

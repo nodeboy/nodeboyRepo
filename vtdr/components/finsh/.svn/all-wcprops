@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/98/trunk/software/components/finsh
+END
+finsh_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_parser.h
+END
+finsh_ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_ops.c
+END
+finsh_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_init.c
+END
+finsh_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_ops.h
+END
+finsh_compiler.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_compiler.c
+END
+cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/98/trunk/software/components/finsh/cmd.c
+END
+finsh_heap.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_heap.c
+END
+symbol.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/98/trunk/software/components/finsh/symbol.c
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/98/trunk/software/components/finsh/SConscript
+END
+shell.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/98/trunk/software/components/finsh/shell.c
+END
+finsh_token.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_token.c
+END
+finsh_heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_heap.h
+END
+finsh_vm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_vm.c
+END
+finsh_node.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_node.c
+END
+shell.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/98/trunk/software/components/finsh/shell.h
+END
+finsh_token.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_token.h
+END
+finsh.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh.h
+END
+finsh_vm.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_vm.h
+END
+finsh_var.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_var.c
+END
+finsh_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_error.c
+END
+finsh_node.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_node.h
+END
+finsh_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_parser.c
+END
+finsh_var.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_var.h
+END
+finsh_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/98/trunk/software/components/finsh/finsh_error.h
+END

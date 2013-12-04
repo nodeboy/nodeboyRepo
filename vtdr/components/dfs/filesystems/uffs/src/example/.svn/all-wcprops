@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/example
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/example/CMakeLists.txt
+END
+flash-interface-example.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/example/flash-interface-example.c
+END
+static-mem-allocate.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/uffs/src/example/static-mem-allocate.c
+END

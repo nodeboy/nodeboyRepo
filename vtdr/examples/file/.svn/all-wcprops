@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/101/trunk/software/examples/file
+END
+listdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/trunk/software/examples/file/listdir.c
+END
+writespeed.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/trunk/software/examples/file/writespeed.c
+END
+readspeed.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/101/trunk/software/examples/file/readspeed.c
+END
+seekdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/trunk/software/examples/file/seekdir.c
+END
+readwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/32/trunk/software/examples/file/readwrite.c
+END

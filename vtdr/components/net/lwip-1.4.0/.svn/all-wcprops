@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/98/trunk/software/components/net/lwip-1.4.0
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/98/trunk/software/components/net/lwip-1.4.0/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/net/lwip-1.4.0/README
+END
+UPGRADING
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/net/lwip-1.4.0/UPGRADING
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98/trunk/software/components/net/lwip-1.4.0/FILES
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98/trunk/software/components/net/lwip-1.4.0/CHANGELOG
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/98/trunk/software/components/net/lwip-1.4.0/SConscript
+END

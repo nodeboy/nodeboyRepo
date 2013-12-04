@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Include
+END
+arm_common_tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Include/arm_common_tables.h
+END
+core_cmFunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Include/core_cmFunc.h
+END
+core_cm0.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Include/core_cm0.h
+END
+core_cm4_simd.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Include/core_cm4_simd.h
+END
+core_cmInstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Include/core_cmInstr.h
+END
+arm_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Include/arm_math.h
+END
+core_cm3.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Include/core_cm3.h
+END
+core_cm4.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/124/trunk/software/bsp/vtdr/Libraries/CMSIS/Include/core_cm4.h
+END

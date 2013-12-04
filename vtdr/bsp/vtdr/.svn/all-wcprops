@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/211/trunk/software/bsp/vtdr
+END
+lcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/187/trunk/software/bsp/vtdr/lcd.h
+END
+stm32f10x_it.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/155/trunk/software/bsp/vtdr/stm32f10x_it.h
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/214/trunk/software/bsp/vtdr/serial.c
+END
+project.ewp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/108/trunk/software/bsp/vtdr/project.ewp
+END
+stm32f10x_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/153/trunk/software/bsp/vtdr/stm32f10x_conf.h
+END
+rtconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/117/trunk/software/bsp/vtdr/rtconfig.py
+END
+serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/198/trunk/software/bsp/vtdr/serial.h
+END
+project.eww
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/97/trunk/software/bsp/vtdr/project.eww
+END
+WarmVol.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/209/trunk/software/bsp/vtdr/WarmVol.c
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/214/trunk/software/bsp/vtdr/board.c
+END
+usbh_usr.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/207/trunk/software/bsp/vtdr/usbh_usr.c
+END
+WarmVol.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/207/trunk/software/bsp/vtdr/WarmVol.h
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/202/trunk/software/bsp/vtdr/board.h
+END
+usbh_usr.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/204/trunk/software/bsp/vtdr/usbh_usr.h
+END
+project.Uv2
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/97/trunk/software/bsp/vtdr/project.Uv2
+END
+startup.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/209/trunk/software/bsp/vtdr/startup.c
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/214/trunk/software/bsp/vtdr/menu.c
+END
+template.Uv2
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/97/trunk/software/bsp/vtdr/template.Uv2
+END
+usbd_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/131/trunk/software/bsp/vtdr/usbd_conf.h
+END
+menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/204/trunk/software/bsp/vtdr/menu.h
+END
+usbh_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/166/trunk/software/bsp/vtdr/usbh_conf.h
+END
+RS232.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/214/trunk/software/bsp/vtdr/RS232.c
+END
+rtconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/198/trunk/software/bsp/vtdr/rtconfig.h
+END
+RS232.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/199/trunk/software/bsp/vtdr/RS232.h
+END
+rtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/201/trunk/software/bsp/vtdr/rtc.c
+END
+stm32_rom.sct
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/97/trunk/software/bsp/vtdr/stm32_rom.sct
+END
+rtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/97/trunk/software/bsp/vtdr/rtc.h
+END
+usb_bsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/203/trunk/software/bsp/vtdr/usb_bsp.c
+END
+application.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/214/trunk/software/bsp/vtdr/application.c
+END
+led.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/121/trunk/software/bsp/vtdr/led.c
+END
+DataManager.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/214/trunk/software/bsp/vtdr/DataManager.c
+END
+application.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/214/trunk/software/bsp/vtdr/application.h
+END
+DataManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/207/trunk/software/bsp/vtdr/DataManager.h
+END
+led.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/97/trunk/software/bsp/vtdr/led.h
+END
+gpio_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/214/trunk/software/bsp/vtdr/gpio_drv.c
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/117/trunk/software/bsp/vtdr/.gdbinit
+END
+gpio_drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/156/trunk/software/bsp/vtdr/gpio_drv.h
+END
+lcd_word_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/208/trunk/software/bsp/vtdr/lcd_word_model.h
+END
+printer.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/214/trunk/software/bsp/vtdr/printer.c
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/97/trunk/software/bsp/vtdr/SConstruct
+END
+printer.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/214/trunk/software/bsp/vtdr/printer.h
+END
+font_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/97/trunk/software/bsp/vtdr/font_lib.c
+END
+usbd_desc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/130/trunk/software/bsp/vtdr/usbd_desc.h
+END
+font_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/97/trunk/software/bsp/vtdr/font_lib.h
+END
+usb_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/131/trunk/software/bsp/vtdr/usb_conf.h
+END
+stm32f10x_flash.icf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/97/trunk/software/bsp/vtdr/stm32f10x_flash.icf
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/207/trunk/software/bsp/vtdr/SConscript
+END
+atmel_dataflash.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/200/trunk/software/bsp/vtdr/atmel_dataflash.c
+END
+GetData.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/214/trunk/software/bsp/vtdr/GetData.c
+END
+usbd_mem_if.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/131/trunk/software/bsp/vtdr/usbd_mem_if.c
+END
+usbd_mem_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/127/trunk/software/bsp/vtdr/usbd_mem_if.h
+END
+atmel_dataflash.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/186/trunk/software/bsp/vtdr/atmel_dataflash.h
+END
+template.uvproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/97/trunk/software/bsp/vtdr/template.uvproj
+END
+i2c_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/214/trunk/software/bsp/vtdr/i2c_drv.c
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/97/trunk/software/bsp/vtdr/readme.txt
+END
+lcd_display.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/187/trunk/software/bsp/vtdr/lcd_display.h
+END
+i2c_drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/214/trunk/software/bsp/vtdr/i2c_drv.h
+END
+usart.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/214/trunk/software/bsp/vtdr/usart.c
+END
+stm32_rom.ld
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/203/trunk/software/bsp/vtdr/stm32_rom.ld
+END
+lcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/204/trunk/software/bsp/vtdr/lcd.c
+END
+stm32f10x_it.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/214/trunk/software/bsp/vtdr/stm32f10x_it.c
+END
+usart.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/97/trunk/software/bsp/vtdr/usart.h
+END
+project.ewd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/108/trunk/software/bsp/vtdr/project.ewd
+END

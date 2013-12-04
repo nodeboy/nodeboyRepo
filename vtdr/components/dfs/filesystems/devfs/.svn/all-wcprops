@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/devfs
+END
+devfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/devfs/devfs.c
+END
+devfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/devfs/devfs.h
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/98/trunk/software/components/dfs/filesystems/devfs/console.c
+END
