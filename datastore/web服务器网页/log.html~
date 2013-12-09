@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>唐山公安</title>
+<script type="text/javascript">
+function loadXMLDoc()
+{
+	var url = document.getElementById("text").value+"="+document.getElementById("password").value;
+	var xmlhttp;
+	var str = "display.html?";
+	if (window.XMLHttpRequest)
+	{// code for IE7+, Firefox, Chrome, Opera, Safari
+		xmlhttp=new XMLHttpRequest();
+	}
+	else
+	{// code for IE6, IE5
+		xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	xmlhttp.onreadystatechange=function()
+	{
+		if (xmlhttp.readyState==4 && xmlhttp.status==200)
+		{
+			if(xmlhttp.responseText!="FLASE")
+			{
+				str = str+encodeURI(xmlhttp.responseText);
+				window.location.replace(str);
+				return false;
+				document.getElementById("like").innerHTML =xmlhttp.responseText;
+				
+			}
+			else 
+			{
+				alert("用户名与密码不匹配");
+				//document.getElementById("like").innerHTML =xmlhttp.responseText;
+			}
+		}
+	}
+	xmlhttp.open("POST","/cgi-bin/log.cgi",true);
+	xmlhttp.send(url);
+	return false;
+}
+</script>
+</head>
+<body >
+<h1>唐山公安欢迎你登陆</h1>
+<form>
+用户：
+<input id ="text" type="text" name="user">
+<br/>
+密码：
+<input id="password" type="password" name="password">
+<input name="button" type="button" onclick="loadXMLDoc()" value="登陆"/>
+</form>
+<p id="like"></p>
+</body>
+</html>

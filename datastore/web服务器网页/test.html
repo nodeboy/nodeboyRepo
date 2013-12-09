@@ -1,0 +1,190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>检车单</title>
+<script>
+	function mymessage()
+	{
+	        var str = new String(decodeURI(location.search));
+		document.getElementById("jianchechang").innerHTML = str.replace("?","");
+		var today=new Date();
+		var y=today.getFullYear();
+		var m=today.getMonth();
+		var d=today.getDate();
+		var h=today.getHours();
+		var mn=today.getMinutes();
+		m=m+1;
+		// add a zero in front of numbers<10
+		document.getElementById("riqi").innerHTML=y+"-"+m+"-"+d+" "+h+":"+mn;
+		//document.getElementById("riqi").value=y+"-"+m+"-"+d;
+
+		setTimeout("mymessage();", 30000);
+
+	}
+</script>
+<script>
+	function getCarNb()
+	{
+		var xmlhttp;
+		var url = document.getElementById("车牌").value;
+		//var str = new String();
+		if (window.XMLHttpRequest)
+		{// code for IE7+, Firefox, Chrome, Opera, Safari
+			xmlhttp=new XMLHttpRequest();
+		}
+		else
+		{// code for IE6, IE5
+			xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+		}
+		xmlhttp.onreadystatechange=function()
+		{
+			if (xmlhttp.readyState==4 && xmlhttp.status==200)
+			{
+				if(xmlhttp.responseText!="FLASE")
+				{
+					var str = new String(xmlhttp.responseText);
+					var strb = new String(str.split(",",1));
+					document.getElementById("driver").innerHTML = strb;
+					//strb = str-strb;
+					str = str.slice(strb.length+1).toString();
+					strb = str.split(",",1).toString();
+					document.getElementById("ID").innerHTML =strb;
+					str = str.slice(strb.length+1).toString();
+					strb = str.split(",",1).toString();
+					document.getElementById("carnb").innerHTML = str.split(",",1);
+					str = str.slice(strb.length+1).toString();
+					strb = str.split(",",1).toString();
+					document.getElementById("installT").innerHTML =str.split(",",1);
+				}
+				else 
+				{
+					alert("此车牌未录入数据库");
+					document.getElementById("driver").innerHTML ="";
+					document.getElementById("ID").innerHTML ="";
+					document.getElementById("carnb").innerHTML ="";
+					document.getElementById("installT").innerHTML ="";
+					return false;
+				}
+			}
+		}
+		if(url== "")
+		{
+			alert("车牌号不对，请重新输入");
+			document.getElementById("driver").innerHTML ="";
+			document.getElementById("ID").innerHTML ="";
+			document.getElementById("carnb").innerHTML ="";
+			document.getElementById("installT").innerHTML ="";
+			return false;
+		}
+		else
+		{
+			xmlhttp.open("POST","/cgi-bin/test.cgi",true);
+			xmlhttp.send(url);
+		}
+	}
+</script>
+<script>
+	function backtomain()
+	{
+	      var str = "display.html?";
+	      str = str+encodeURI(document.getElementById("jianchechang").innerHTML );
+	      window.location.replace(str);
+	      return false;
+	}
+</script>
+<script>
+	function submitForm()
+	{
+	    var xmlhttp;
+		var url = document.getElementById("carnb").innerHTML;
+		if (window.XMLHttpRequest)
+		{// code for IE7+, Firefox, Chrome, Opera, Safari
+			xmlhttp=new XMLHttpRequest();
+		}
+		else
+		{// code for IE6, IE5
+			xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+		}
+		xmlhttp.onreadystatechange=function()
+		{
+			if (xmlhttp.readyState==4 && xmlhttp.status==200)
+			{
+				if(xmlhttp.responseText!="FLASE")
+				{
+					alert("年检成功");
+					return true;				
+				}
+				else 
+				{
+					alert("年检失败");
+					return true;
+				}
+			}
+		}
+		if(url== "")
+		{
+			alert("请输入车牌号码");
+			return false;
+		}
+		else
+		{
+			xmlhttp.open("POST","/cgi-bin/Tsubmit.cgi",true);
+			xmlhttp.send(url);
+		}
+	}
+</script>
+</head>
+<body onload="mymessage()">
+<h1>车辆检测登记单</h1>
+<form>
+  <p>车牌号码：
+    <input  id="车牌" type="text" name = "车牌号" >
+    <input type="button" value="查询" onclick = "getCarNb()"/>
+    <br/>
+  </p>
+</form>
+
+
+
+</font>
+<table width="309" height="99" border="1">
+  <tr>
+    <td width="91" height="30" bgcolor="#999999">驾驶员姓名：</td>
+    <td id="driver" width="167" height="30" bgcolor="#00FFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" bgcolor="#999999">ID号：</td>
+    <td id="ID" height="30" bgcolor="#00FFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" bgcolor="#999999">安装时间：</td>
+    <td id="installT" height="30" bgcolor="#00FFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" bgcolor="#999999">车牌号码：</td>
+    <td id="carnb" height="30" bgcolor="#00FFFF">&nbsp;</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="512" height="112" border="1">
+  <tr>
+    <td width="72" rowspan="3" bgcolor="#999999">年检单</td>
+    <td  width="155" height="30" bgcolor="#00FFFF">检车时间：</td>
+    <td id= "riqi" width="239" bgcolor="#FFFF00"></td>
+  </tr>
+  <tr>
+    <td height="28" bgcolor="#00FFFF">检车场名称：</td>
+    <td id="jianchechang" bgcolor="#FFFF33">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="23" bgcolor="#00FFFF">服务器是否在线：</td>
+    <td bgcolor="#FFFF00">&nbsp;</td>
+  </tr>
+</table>
+<p><br/>
+  <input type="button" value="通过检测" onclick = "submitForm()"/> 
+  <input type="button" value="返回上一层" onclick = "backtomain()"/>
+</p>
+</body>
+</html>

@@ -1,0 +1,13 @@
+http://www.w3school.com.cn/js/index.asp
+
+
+main(){
+         printf("%s","Content-type:text/html;charset=UTF-8;\n\n");
+         if(getenv("CONTENT-LENGTH")){
+                 int n=atoi(getenv("CONTENT-LENGTH"));
+                 printf("%d",n);
+         }
+         else{
+                 printf("%s","aaaaaaaaaaa");
+         }
+ }
